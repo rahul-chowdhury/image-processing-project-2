@@ -55,7 +55,7 @@ Sorting the set according to x-coordinates (this is necessary for a plane sweep 
 Inserting and removing each point once from the ordered set D (each insertion takes        O(log n) time as shown in the section on (2,4)-trees), takes a total of O (n log n) time. 
 Comparing each point to a constant number of its neighbors (which takes O(n) time in total).
 
-<h4>5. Challenges faced,and their proposed solutions<h4>
+<h4>5. Challenges faced,and their proposed solutions</h4>
 The challenges that we faced during the project were:
 
 1.Intersecting line segments-In the generated polygon,various cases of intersecting line segments could be seen.This led to intersecting polygons,which was against our goal.
