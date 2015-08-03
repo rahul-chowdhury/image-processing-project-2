@@ -1,0 +1,10 @@
+1. Clone, or download, the repository in your local machine.
+
+2. Navigate to the project directory, and compile the program using the command : cc polygon.c -o <executable> 
+
+3. Run the executable using the command ./<executable>
+
+4. The output is a file named poly.txt in the project directory.
+
+5. Plot the graph represented by the points in the file using graph plotting softwares, such as gnuplot or qtiplot.
+
